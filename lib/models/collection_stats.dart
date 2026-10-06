@@ -36,10 +36,10 @@ class CollectionStats {
 
   String get copyText {
     if (isEmpty) {
-      return '🧰 Tiny Inventory\nYour collection is empty.';
+      return '🧰 Tiny Inventory Shelf\nYour collection is empty.';
     }
     final buffer = StringBuffer()
-      ..writeln('🧰 Tiny Inventory')
+      ..writeln('🧰 Tiny Inventory Shelf')
       ..writeln('Pieces: $itemCount')
       ..writeln('Total quantity: $totalQuantity')
       ..writeln('Categories: $categoryCount');

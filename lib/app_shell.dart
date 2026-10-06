@@ -132,7 +132,7 @@ class _Header extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Tiny Inventory',
+                  'Tiny Inventory Shelf',
                   style: TextStyle(
                     color: Colors.white70,
                     fontWeight: FontWeight.w700,

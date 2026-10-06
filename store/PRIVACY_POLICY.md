@@ -1,15 +1,15 @@
-# Privacy Policy for Tiny Inventory
+# Privacy Policy for Tiny Inventory Shelf
 
 **Effective date:** October 6, 2026  
-**App name:** Tiny Inventory  
+**App name:** Tiny Inventory Shelf  
 **Package name / bundle ID:** com.qelvyn.tinyinventoryr6p4  
 **Applies to:** Google Play and the Apple App Store
 
-This is the same policy for both stores. Tiny Inventory handles information the same way on Android and iOS.
+This is the same policy for both stores. Tiny Inventory Shelf handles information the same way on Android and iOS.
 
 ## Summary
 
-Tiny Inventory stores your collection on your device and does not send it to us. We do not collect, sell, or share personal information. There is no account.
+Tiny Inventory Shelf stores your collection on your device and does not send it to us. We do not collect, sell, or share personal information. There is no account.
 
 ## Information we collect
 
@@ -19,7 +19,7 @@ We do not operate an account system, analytics service, advertising network, or 
 
 ## Information stored on your device
 
-When you add an item, the app saves it locally on that device so it is still there the next time you open Tiny Inventory. A saved item can include:
+When you add an item, the app saves it locally on that device so it is still there the next time you open Tiny Inventory Shelf. A saved item can include:
 
 - a name
 - an emoji you pick
@@ -47,15 +47,15 @@ The Copy buttons place text you choose — one item, the collection, or a statis
 
 ## Permissions
 
-Tiny Inventory does not request location, camera, microphone, contacts, or photo access. Copy uses the system clipboard, which does not require a special permission prompt.
+Tiny Inventory Shelf does not request location, camera, microphone, contacts, or photo access. Copy uses the system clipboard, which does not require a special permission prompt.
 
 ## Children’s privacy
 
-Tiny Inventory is a general-purpose collection tracker. It is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children. Because the app does not send data to us, there is no personal information for us to delete from a server. A parent or guardian can remove local data by deleting items in the app or by uninstalling it.
+Tiny Inventory Shelf is a general-purpose collection tracker. It is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children. Because the app does not send data to us, there is no personal information for us to delete from a server. A parent or guardian can remove local data by deleting items in the app or by uninstalling it.
 
 ## Data retention and deletion
 
-You control the shelf. Edit or delete any item inside the app. Uninstalling Tiny Inventory removes the locally stored collection from that device. We do not keep a server copy.
+You control the shelf. Edit or delete any item inside the app. Uninstalling Tiny Inventory Shelf removes the locally stored collection from that device. We do not keep a server copy.
 
 ## Security
 
@@ -89,6 +89,6 @@ If this policy changes, the updated version will be posted with a new effective 
 
 ## Contact
 
-Privacy questions can be sent through the developer contact listed on the Google Play store listing and the Apple App Store listing for Tiny Inventory. Please include “Tiny Inventory privacy” in the subject so the request is easy to find.
+Privacy questions can be sent through the developer contact listed on the Google Play store listing and the Apple App Store listing for Tiny Inventory Shelf. Please include “Tiny Inventory Shelf privacy” in the subject so the request is easy to find.
 
 We do not operate a separate account or data portal, because the app does not hold your collection on a server.

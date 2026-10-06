@@ -1,13 +1,13 @@
-# Tiny Inventory — Apple App Store listing
+# Tiny Inventory Shelf — Apple App Store listing
 
 Bundle ID: `com.qelvyn.tinyinventoryr6p4`  
 Version: 1.0.0  
 Primary language: English (U.S.)
 
 ## Name
-Tiny Inventory
+Tiny Inventory Shelf
 
-14 characters. Limit 30.
+20 characters. Limit 30.
 
 ## Subtitle
 Your private collection shelf
@@ -20,7 +20,7 @@ Start with an empty shelf. Add, edit, delete, and copy the things you collect. E
 111 characters. Limit 170.
 
 ## Description
-Tiny Inventory is a small, calm place to keep track of the things you collect.
+Tiny Inventory Shelf is a small, calm place to keep track of the things you collect.
 
 Your shelf starts empty. Add only what you own. Edit a piece when something changes, delete it when it leaves your collection, and copy the details whenever you want them in a note, a message, or a spreadsheet.
 
@@ -36,7 +36,7 @@ The collection lives on this iPhone or iPad. There is no account, no feed, and n
 
 Three pages — Items, Add, and Statistics — sit on one ocean gradient, with soft cards and a bottom navigation bar.
 
-Tiny Inventory does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
+Tiny Inventory Shelf does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
 
 ## Keywords
 collection,inventory,catalog,hobby,collectibles,tracker,items,shelf,personal
@@ -67,7 +67,7 @@ Data Not Collected
 - Data not linked to you: None
 
 ## Copyright
-2026 Tiny Inventory
+2026 Tiny Inventory Shelf
 
 ## Support URL
 Use the Apple App Store developer contact page, or the public page where you host `store/APP_STORE_PRIVACY_POLICY.md`.

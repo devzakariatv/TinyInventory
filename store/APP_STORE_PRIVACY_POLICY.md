@@ -1,13 +1,13 @@
-# Privacy Policy for Tiny Inventory
+# Privacy Policy for Tiny Inventory Shelf
 
 **Effective date:** October 6, 2026  
-**App:** Tiny Inventory  
+**App:** Tiny Inventory Shelf  
 **Bundle ID:** com.qelvyn.tinyinventoryr6p4  
 **Platform:** Apple App Store (iPhone and iPad)
 
 ## Summary
 
-Tiny Inventory stores your collection on your Apple device and does not send it to the developer. We do not collect, sell, or share personal information. There is no account.
+Tiny Inventory Shelf stores your collection on your Apple device and does not send it to the developer. We do not collect, sell, or share personal information. There is no account.
 
 In App Store Connect, choose **Data Not Collected**.
 
@@ -19,7 +19,7 @@ We do not operate an account system, analytics service, advertising network, or 
 
 ## Information stored on your device
 
-When you add an item, the app saves it locally on that iPhone or iPad so it is still there the next time you open Tiny Inventory. A saved item can include:
+When you add an item, the app saves it locally on that iPhone or iPad so it is still there the next time you open Tiny Inventory Shelf. A saved item can include:
 
 - a name
 - an emoji you pick
@@ -28,7 +28,7 @@ When you add an item, the app saves it locally on that iPhone or iPad so it is s
 - an optional note
 - the time it was created and last updated
 
-That information stays in the app’s private local storage on the device. It is not uploaded to the developer, to Apple, or to any other service by this app. Uninstalling Tiny Inventory, or deleting an item inside the app, removes it from the device. We cannot restore a collection after it is deleted, because we never receive a copy.
+That information stays in the app’s private local storage on the device. It is not uploaded to the developer, to Apple, or to any other service by this app. Uninstalling Tiny Inventory Shelf, or deleting an item inside the app, removes it from the device. We cannot restore a collection after it is deleted, because we never receive a copy.
 
 A new installation starts empty. The app does not ship with sample items.
 
@@ -48,11 +48,11 @@ The Copy buttons place text you choose — one item, the collection, or a statis
 
 ## Permissions
 
-Tiny Inventory does not request location, camera, microphone, contacts, photos, or tracking permission. Copy uses the system clipboard, which does not require a permission prompt.
+Tiny Inventory Shelf does not request location, camera, microphone, contacts, photos, or tracking permission. Copy uses the system clipboard, which does not require a permission prompt.
 
 ## Children’s privacy
 
-Tiny Inventory is a general-purpose collection tracker. It is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children. Because the app does not send data to us, there is no personal information for us to delete from a server. A parent or guardian can remove local data by deleting items in the app or by uninstalling it.
+Tiny Inventory Shelf is a general-purpose collection tracker. It is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children. Because the app does not send data to us, there is no personal information for us to delete from a server. A parent or guardian can remove local data by deleting items in the app or by uninstalling it.
 
 ## Data retention and deletion
 
@@ -83,6 +83,6 @@ If this policy changes, the updated version will be posted at the Privacy Policy
 
 ## Contact
 
-Privacy questions can be sent through the developer contact on the Apple App Store listing for Tiny Inventory. Please include “Tiny Inventory privacy” in the subject so the request is easy to find.
+Privacy questions can be sent through the developer contact on the Apple App Store listing for Tiny Inventory Shelf. Please include “Tiny Inventory Shelf privacy” in the subject so the request is easy to find.
 
 We do not operate a separate account or data portal, because the app does not hold your collection on a server.

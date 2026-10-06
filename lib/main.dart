@@ -28,7 +28,7 @@ class TinyInventoryApp extends StatelessWidget {
     return StoreScope(
       store: store,
       child: MaterialApp(
-        title: 'Tiny Inventory',
+        title: 'Tiny Inventory Shelf',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.light,
         home: const AppShell(),

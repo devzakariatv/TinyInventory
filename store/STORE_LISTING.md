@@ -1,7 +1,7 @@
-# Tiny Inventory — store listing
+# Tiny Inventory Shelf — store listing
 
 Package name / bundle ID: `com.qelvyn.tinyinventoryr6p4`  
-App name: Tiny Inventory  
+App name: Tiny Inventory Shelf  
 Version: 1.0.0
 
 ---
@@ -9,9 +9,9 @@ Version: 1.0.0
 ## Google Play
 
 ### Title
-Tiny Inventory
+Tiny Inventory Shelf
 
-(14 characters. Limit 30.)
+(20 characters. Limit 30.)
 
 ### Short description
 Add, edit, and organize personal collections. Private on your device.
@@ -19,7 +19,7 @@ Add, edit, and organize personal collections. Private on your device.
 (69 characters. Limit 80.)
 
 ### Full description
-Tiny Inventory is a small, calm place to keep track of the things you collect.
+Tiny Inventory Shelf is a small, calm place to keep track of the things you collect.
 
 Your shelf starts empty. Add only what you own. Edit a piece when something changes, delete it when it leaves your collection, and copy the details whenever you want them in a note, a message, or a spreadsheet.
 
@@ -37,7 +37,7 @@ The collection lives on this device. There is no account, no feed, and no cloud 
 A quiet design
 One ocean gradient, soft cards, and emoji labels. Three pages — Items, Add, and Statistics — with a navigation bar along the bottom.
 
-Tiny Inventory does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
+Tiny Inventory Shelf does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
 
 ### Category
 Lifestyle
@@ -53,9 +53,9 @@ Everyone. No user-generated public content, no ads, no restricted themes.
 ## Apple App Store
 
 ### Name
-Tiny Inventory
+Tiny Inventory Shelf
 
-(14 characters. Limit 30.)
+(20 characters. Limit 30.)
 
 ### Subtitle
 Your private collection shelf
@@ -68,7 +68,7 @@ Start with an empty shelf. Add, edit, delete, and copy the things you collect. E
 (111 characters. Limit 170.)
 
 ### Description
-Tiny Inventory is a small, calm place to keep track of the things you collect.
+Tiny Inventory Shelf is a small, calm place to keep track of the things you collect.
 
 Your shelf starts empty. Add only what you own. Edit a piece when something changes, delete it when it leaves your collection, and copy the details whenever you want them in a note, a message, or a spreadsheet.
 
@@ -84,7 +84,7 @@ The collection lives on this device. There is no account, no feed, and no cloud 
 
 Three pages — Items, Add, and Statistics — sit on one ocean gradient, with soft cards and a bottom navigation bar.
 
-Tiny Inventory does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
+Tiny Inventory Shelf does not ask you to sign in. It does not show ads. It does not send your collection anywhere.
 
 ### Keywords
 collection,inventory,catalog,hobby,collectibles,tracker,items,shelf,personal

@@ -23,9 +23,9 @@ class InventoryStore extends ChangeNotifier {
 
   String get collectionCopyText {
     if (_items.isEmpty) {
-      return '🧰 Tiny Inventory\nYour collection is empty.';
+      return '🧰 Tiny Inventory Shelf\nYour collection is empty.';
     }
-    final buffer = StringBuffer('🧰 Tiny Inventory\n');
+    final buffer = StringBuffer('🧰 Tiny Inventory Shelf\n');
     for (var i = 0; i < _items.length; i++) {
       if (i > 0) buffer.writeln();
       buffer.writeln(_items[i].copyText);
